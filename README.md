@@ -1,4 +1,4 @@
-# Information_retrieval_system
+# Information Retrieval System
 
 This repository contains an information retrieval system program which can be used to search through a database of documents to retrieve the relevant document(s) for a specified query. 
 
