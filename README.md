@@ -12,7 +12,7 @@ The built-in API allows for custom feature engineering on the database, e.g. for
 
 ```
 
-## Ranking, and retrieving documents with machine learning models
+## Machine Learning API
 
 We can train a model to learn to rank and retrieve documents using the engineered features. The built-in ML model API allows for easy implementation of such methods:
 
