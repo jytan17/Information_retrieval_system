@@ -14,9 +14,10 @@ The built-in API allows for custom feature engineering on the database, e.g. for
 
 ## Machine Learning API
 
-We can train a model to learn to rank and retrieve documents using the engineered features. The built-in ML model API allows for easy implementation of such methods:
+We can train a model to learn to rank and retrieve documents using the engineered features and the built-in ML API allows for easy implementation of such methods:
 
-Currently only XGBoost and a simple Feedforward network (implemented with Pytorch) are available. Plans to expand on the available models 
+Currently, only XGBoost and Feedforward networks (implemented with Pytorch) are available (more sophiticated models are planned for the future).
 
 
 ## Performance Metrics
+
